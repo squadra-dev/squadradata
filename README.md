@@ -1,0 +1,2 @@
+# squadradata
+squadradata.com
